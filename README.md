@@ -1,6 +1,6 @@
-# Hi, I'm `mygithub` 👋
+# Hi, I'm `batmankabaap` 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mygithub&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=batmankabaap&color=brightgreen)
 
 > A compact, modern GitHub profile README template that showcases your stats, streaks, languages and contribution graphs. Replace `mygithub` with your GitHub username to make it yours.
 
@@ -8,27 +8,27 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[project-name]**
-- 🌱 I’m learning **Machine Learning, Rust, and Advanced Web APIs**
+- 🔭 I’m currently working on **[nothing]**
+- 🌱 I’m proficient in **Machine Learning, Data Science, and Deep Learning**
 - 👯 I’m looking to collaborate on open-source tooling and infra
-- 💬 Ask me about **data engineering, deployment, or GitHub Actions**
-- 📫 How to reach me: `your.email@example.com`
+- 💬 Ask me about **data science, deployment, or GitHub Actions**
+- 📫 How to reach me: `prabhat1721@kgpian.iitkgp.ac.in`
 
 ---
 
 ## 📈 GitHub Stats
 
-![mygithub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mygithub&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
+![mygithub's GitHub stats](https://github-readme-stats.vercel.app/api?username=batmankabaap&show_icons=true&count_private=true&include_all_commits=true&theme=highcontrast)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mygithub&layout=compact&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batmankabaap&layout=compact&theme=highcontrast)
 
 ---
 
 ## 🔥 Streak & Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mygithub&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=batmankabaap&theme=dark&hide_border=true)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mygithub&theme=react-dark&area=true&hide_border=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=batmankabaap&theme=react-dark&area=true&hide_border=true)
 
 ---
 
@@ -36,8 +36,8 @@
 
 Below are the languages and tools I use most often.
 
-- **Languages:** JavaScript, Python, TypeScript, C++, Go
-- **Frameworks / Tools:** Node.js, React, FastAPI, Docker, Kubernetes, Terraform
+- **Languages:** Python, C, C++
+- **Frameworks / Tools:** FastAPI, Tensorflow, Pytorch, Scikit-Learn, Seaborn
 
 ```
 ![Python](https://img.shields.io/badge/-Python-333?logo=python&style=for-the-badge)
@@ -48,26 +48,16 @@ Below are the languages and tools I use most often.
 
 ## ⭐ Top Repositories
 
-- [project-one](https://github.com/mygithub/project-one) — Short description for project-one.
-- [lib-two](https://github.com/mygithub/lib-two) — Short description for lib-two.
-- [playground](https://github.com/mygithub/playground) — Experimental code & notes.
+- [project-one](https://github.com/batmankabaap/project-one) — Short description for project-one.
+- [lib-two](https://github.com/batmankabaap/lib-two) — Short description for lib-two.
+- [playground](https://github.com/batmankabaap/playground) — Experimental code & notes.
 
 ---
 
 ## 📊 Extra Badges
 
-![Followers](https://img.shields.io/github/followers/mygithub?label=Followers&style=social)
-![Repos](https://img.shields.io/github/repos/mygithub?label=Public%20Repos&style=flat)
+![Followers](https://img.shields.io/github/followers/batmankabaap?label=Followers&style=social)
+![Repos](https://img.shields.io/github/repos/batmankabaap?label=Public%20Repos&style=flat)
 
----
-
-## ⚙️ How to use / Customize
-
-1. Fork this README into your `mygithub/mygithub` repository.
-2. Replace every `mygithub` in the URLs with your username.
-3. Tweak themes and query params as desired.
-4. (Optional) Add GitHub Actions for auto-updating stats.
-
----
 
 © `mygithub` • Built with ❤️
