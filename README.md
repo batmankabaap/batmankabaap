@@ -2,10 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=batmankabaap&color=brightgreen)
 
-> A compact, modern GitHub profile README template that showcases your stats, streaks, languages and contribution graphs. Replace `mygithub` with your GitHub username to make it yours.
-
----
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[nothing]**
